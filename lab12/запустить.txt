@@ -1,0 +1,3 @@
+d:
+cd D:\3 курс\жаба\lab12\bbb
+java -cp ./target/classes/ ddd/App
